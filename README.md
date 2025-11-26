@@ -2,4 +2,4 @@
 
 ### A minimal GitHub Pages website
 
-#### for logicup.com 
+#### for logicup.com
